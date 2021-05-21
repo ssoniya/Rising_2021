@@ -11,43 +11,23 @@ Tutorials on:
   
 NOTE:
 Download datasets from Kaggle and maintain following directory structure-
+
 Rising_2021
+
+|-helper
 
 |-notebooks
 
-|  |- Tutorial_BinaryClassification.ipynb
-
-|  |- Tutorial_MulticlassClassification.ipynb
-
-|  |- Tutorial_MultilabelClassification.ipynb
-
-|  |- Tutorial_Segmentation.ipynb
-
 |-datasets
 
-  |-chest_xray_small
-  
-  |  |-test
-  |    |-NORMAL
-  |    |-PNEUMONIA
-  |  |-train
-  |    <Folders structure same as test>
-  |  |-val
-  |    <Folders structure same as test>   
-  |-medical_mnist_small
-  |  |-test
-  |    |-AbdomenCT
-  |    |-BreastMRI
-  |    |-ChestCT
-  |    |-CXR
-  |    |-Hand
-  |    |-HeadCT
-  |  |-train
-  |      <Folders structure same as test>
-  |  |-val
-  |     <Folders structure same as test>
-  |-multilabel_dataset <Create using helper/CreateDataset.py>
-  |-256x256
+----|- <chest_xray>
+
+----|- <medical_mnist>
+
+----|- <multilabel_dataset> (create using helper/CreateDataset.py)
+
+----|- 256x256
+
  
  
 References - 

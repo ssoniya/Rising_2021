@@ -3,9 +3,11 @@ The Rising 2021
 
 Medical Image Classification and Segmentation using Deep Learning with Tensorflow2
 
-Example1: Binary Classification
-Example2: Multiclass Classification
-Example3: Multilabel Classification
+Tutorials on: 
+  Binary Classification
+  Multiclass Classification
+  Multilabel Classification
+  Segmentation
 
 
 

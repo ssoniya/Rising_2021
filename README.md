@@ -6,7 +6,6 @@ Medical Image Classification and Segmentation using Deep Learning with Tensorflo
 Example1: Binary Classification
 Example2: Multiclass Classification
 Example3: Multilabel Classification
-Example4: Semantic Segmentation
-Example5: Instance Segmentation
+
 
 

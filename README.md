@@ -12,13 +12,21 @@ Tutorials on:
 NOTE:
 Download datasets from Kaggle and maintain following directory structure-
 Rising_2021
+
 |-notebooks
+
 |  |- Tutorial_BinaryClassification.ipynb
+
 |  |- Tutorial_MulticlassClassification.ipynb
+
 |  |- Tutorial_MultilabelClassification.ipynb
+
 |  |- Tutorial_Segmentation.ipynb
+
 |-datasets
+
   |-chest_xray_small
+  
   |  |-test
   |    |-NORMAL
   |    |-PNEUMONIA

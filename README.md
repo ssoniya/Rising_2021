@@ -8,6 +8,11 @@ Tutorials on:
   Multiclass Classification
   Multilabel Classification
   Segmentation
+  
+References - 
+How to use Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
+Tensorflow2: https://www.tensorflow.org/tutorials/quickstart/beginner
+Kaggle datasets: https://www.kaggle.com/datasets
 
 
 

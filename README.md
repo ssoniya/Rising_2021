@@ -10,6 +10,7 @@ Tutorials on:
   Segmentation
   
 References - 
+
 How to use Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
 
 Tensorflow2: https://www.tensorflow.org/tutorials/quickstart/beginner
